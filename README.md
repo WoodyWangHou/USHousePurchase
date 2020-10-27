@@ -2,8 +2,8 @@
 
 # 买房基本步骤
 1. [选择自己的地产经纪人 (Buy’s Agent)](#1选择自己的地产经纪人-buys-agent)
-2. [拿到银行贷款预先批准信 (Pre-Approval)](#2拿到银行贷款预先批准信(pre-approval))
-3. 开始看房子 (House Hunting)
+2. [拿到银行贷款预先批准信 (Pre-Approval)](#2拿到银行贷款预先批准信pre-approval)
+3. [开始看房子 (House Hunting)](#3开始看房子house-Hunting)
 4. 出价并协商 (Make an Offer/ Negotiation)
 5. 签署正式合同并支付订金至第三方公证托管公司 (Escrow)
 6. 房屋检查 (Home Inspection)
