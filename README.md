@@ -107,6 +107,7 @@ Pre-Qualification贷款资格预审只是贷款机构非正式的资格预审，
     - Bellevue南边最佳，房价相对低，学区好，治安相对好
     - 其次bellevue城区西边（房价，学区，治安相对较好）
     - Bellevue中间地带最次（房价相对高，学区差，治安相对也没有那么好）
+    - [查看Link](https://www.neighborhoodscout.com/wa/bellevue/crime)
 
 ## 过往与未来
 - 鬼屋(haunted house)
