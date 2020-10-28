@@ -4,7 +4,7 @@
 1. [选择自己的地产经纪人 (Buy’s Agent)](#1选择自己的地产经纪人-buys-agent)
 2. [拿到银行贷款预先批准信 (Pre-Approval)](#2拿到银行贷款预先批准信pre-approval)
 3. [开始看房子 (House Hunting)](#3开始看房子-house-Hunting)
-4. 出价并协商 (Make an Offer/ Negotiation)
+4. [出价并协商 (Make an Offer/ Negotiation)]()
 5. 签署正式合同并支付订金至第三方公证托管公司 (Escrow)
 6. 房屋检查 (Home Inspection)
 7. 取得贷款、房屋估价与购买房屋保险 (Loan Approval, Appraisal & Home Insurance)
@@ -123,7 +123,7 @@ Pre-Qualification贷款资格预审只是贷款机构非正式的资格预审，
 来到现场也可顺道了解周边环境，是否安静、是否通风、采光如何、邻居型态、安全观感等都是要到现场才能体会的，尽责的经纪人也能在参观时为你指出应留意的部分。(然后也别忘了早晚各看一次房喔，白天跟晚上看的感觉可是不同的)
 **Open House：周末都会有open house活动，买家可以去走走看看。**
 
-# 出价并协商 (Make an Offer/ Negotiation)
+# 4.出价并协商 (Make an Offer/ Negotiation)
 ## 一般流程
 - 与经纪人一同讨论并填写「购房合约Purchase Agreement (Make Offer)」。
   - 出价金、订金、是否需要贷款、贷多少、双方同意支付的手续费、产权公司、过户天数、检查天数
